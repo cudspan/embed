@@ -1,21 +1,9 @@
 toc:
-  - title: DIF Schema Specification
+  - title: Schema Tables
     subItems:
-    - page: DIF JSON Schema
-      url: /docson-master/public/index.html#./dif-total-schema.json
-      dir: ./docson-master/public/index.html#./dif-total-schema.json
-  
-  - title: Schema Object Descriptions
-    subItems:
-    - page: Topology Object
-      url: Topology.html
-      dir: page/Topology.html
-    - page: Entity Object
-      url: Entity.html
-      dir: /page/Entity.html
-    - page: Metrics Entry Object
-      url: metricsEntry.html
-      dir: /page/metricsEntry.html
+    - page: entity
+      url: EntityTable.html
+      dir: page/EntityTable.html
 
   - title: Tutorials
     subItems:
